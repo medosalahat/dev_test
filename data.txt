@@ -1,0 +1,32 @@
+[
+    {
+        "exit": "Stockholm",
+        "incoming": "New York",
+        "conveyance": "Plane",
+        "conveyance_number": "SK22",
+        "seat": "7B",
+        "gate": "22"
+    },
+    {
+        "exit": "Madrid",
+        "incoming": "Barcelona",
+        "conveyance": "Train",
+        "conveyance_number": "78A",
+        "seat": "45B"
+    },
+
+    {
+        "exit": "Gerona Airport",
+        "incoming": "Stockholm",
+        "conveyance": "Plane",
+        "conveyance_number": "SK455",
+        "seat": "3A",
+        "gate": "45B",
+        "baggage": "334"
+    },
+    {
+        "exit": "Barcelona",
+        "incoming": "Gerona Airport",
+        "conveyance": "Bus"
+    }
+]
